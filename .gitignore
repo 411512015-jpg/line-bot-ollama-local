@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and sensitive keys
+.env
+.env.*
+client_secret*.json
+*.token
+
+# Local IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
